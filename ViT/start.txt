@@ -1,0 +1,1 @@
+python train.py --epochs 300 --batch-size 256 --data-path /apps/users/lxy_xingyx/liuzhuanwei/Repetiton/datasets/flower_photos/flower_photos --weights ./pretrain/jx_vit_base_patch16_224_in21k-e5005f0a.pth --device cuda:2
