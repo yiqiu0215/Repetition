@@ -1,0 +1,3 @@
+tensorboard --logdir=./runs/Apr13_17-34-55_gpu01
+
+ssh -L 16006:127.0.0.1:6006 lxy_xingyx@202.114.252.112 -p 306310bjs

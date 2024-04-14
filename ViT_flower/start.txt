@@ -1,0 +1,1 @@
+python train.py --epochs 300 --batch-size 256 --data-path /apps/users/lxy_xingyx/liuzhuanwei/Reproduce/datasets/flower_photos/flower_photos --device cuda:2
